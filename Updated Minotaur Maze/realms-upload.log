@@ -1,0 +1,9 @@
+Removed world/data/EndCity_index.dat: not used
+Removed world/data/Fortress_index.dat: not used
+Removed world/data/Mansion_index.dat: not used
+Removed world/data/Mineshaft_index.dat: not used
+Removed world/data/Monument_index.dat: not used
+Removed world/data/Stronghold_index.dat: not used
+Removed world/data/Temple_index.dat: not used
+Removed world/data/Village_index.dat: not used
+Validated 59 files, 51 accepted, 8 rejected.
